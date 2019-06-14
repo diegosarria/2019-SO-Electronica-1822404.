@@ -1,3 +1,3 @@
-# Revision de lectura sobre API en lenguaje C en procesos
+#Revision de lectura sobre API en lenguaje C en procesos
 
-* [fprl-basocp.c](fork.basico.c)
+[fork-basico.c] (fork-basico.c)
